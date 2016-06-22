@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/banner.png</file>
+        <file>images/banner3.png</file>
+        <file>images/btn-toradex.png</file>
+        <file>images/clouds-gray.jpg</file>
+        <file>images/flight-info-trdx.png</file>
+        <file>images/seats-plane.png</file>
+        <file>images/top-bar.png</file>
+        <file>images/top-text.png</file>
+        <file>images/toradex-logo-white-small.png</file>
+        <file>images/welcome-screen-toradex.png</file>
+        <file>images/white-bar.png</file>
+        <file>images/seats-plane2.png</file>
+    </qresource>
+</RCC>
